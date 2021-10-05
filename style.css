@@ -4,11 +4,12 @@ color:red;
 }
 p {
 color: coral;
+background-color: darkolivegreen;
 }
 
 address {
   color: black;
-  -color: brown;
+
 }
 q {
   color: chartreuse;
@@ -32,4 +33,16 @@ h2 {color: gold;
 }
 #example-5{
   color: cyan;
+}
+.text-green{
+  background-color: green;
+  color: white;
+}
+.text-white{
+  background-color: black;
+  color: white;
+}
+.text-black{
+  background-color: darkblue;
+  color: white;
 }
