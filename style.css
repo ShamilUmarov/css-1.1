@@ -1,22 +1,21 @@
 h1 {
 color:red;
-background-color: blue;
+
 }
 p {
 color: coral;
-background-color: darkblue;
 }
-p{background-color: rgb(83, 83, 204);}
+
 address {
   color: black;
-  background-color: brown;
+  -color: brown;
 }
 q {
   color: chartreuse;
-  background-color: dimgray;
+
 }
 h2 {color: gold;
-  background-color: indigo;
+
 }
 
 #example-1 { 
